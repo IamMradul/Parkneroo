@@ -8,3 +8,7 @@ joblib
 streamlit
 praat-parselmouth
 opencv-python-headless
+scipy
+plotly
+mediapipe==0.10.14
+protobuf<5.0.0
